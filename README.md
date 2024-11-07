@@ -80,10 +80,6 @@ If you use this code in your research, please cite our paper:
 
 For questions about the code or research, please open an issue in this repository.
 
-## Acknowledgements
-
-This work was supported by [Your Institution/Grant Information].
-
 ## Related Resources
 
 - [Link to the full research paper]()
